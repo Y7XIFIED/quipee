@@ -1,39 +1,9 @@
-# Quipie
+﻿<h3 align="center"><b>QUIPEE</b></h3>
+<p align="center"><img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind" /></p>
 
-> A cinematic, typography-first React experience with expressive motion and playful interactions.
+Welcome to **quipee**! This is a fun and engaging project built to provide an amazing experience!
 
-[![Build](https://img.shields.io/github/actions/workflow/status/Y7XIFIED/flamiee-termii/vercel-deploy.yml?branch=main&label=build)](https://github.com/Y7XIFIED/flamiee-termii/actions/workflows/vercel-deploy.yml)
-[![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](./LICENSE)
-[![Version](https://img.shields.io/badge/version-0.0.0-blue.svg)](./package.json)
+## ðŸš€ Live Website
+Experience the fully interactive website live here: https://quipie.vercel.app
 
-## Features
-
-- Cinematic single-page UI with layered motion and smooth scrolling
-- React + TypeScript architecture optimized with Vite
-- Tailwind-powered styling with custom typography and ambient visuals
-- Interaction-driven details including overlays and playful mode toggles
-
-## Installation
-
-```bash
-npm install
-```
-
-## Usage
-
-```bash
-npm run dev
-```
-
-```bash
-npm run build
-npm run preview
-```
-
-## Live Demo
-
-[https://quipie.vercel.app](https://quipie.vercel.app)
-
-## License
-
-Licensed under the MIT License. See [LICENSE](./LICENSE).
+<div align="center"><p>Y7XIFIED</p></div>
