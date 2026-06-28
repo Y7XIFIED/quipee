@@ -32,64 +32,18 @@ Interact dynamically with your mouse or touch to explore the visual effects! Mov
 ## 📂 Project Structure
 ```text
 quipee/
-├── .github
-│   └── workflows
-│       └── vercel-deploy.yml
-├── .gitignore
-├── .vercel
-│   ├── project.json
-│   └── README.txt
-├── assets
-│   └── footer.png
-├── dev.err.log
-├── dev.out.log
-├── dist
-│   ├── assets
-│   │   ├── footer-CRzRk-J6.png
-│   │   ├── index-6-_qRlK-.css
-│   │   ├── index-Bfyh-1co.js
-│   │   ├── TerminaTest-Black-BA1Tdm73.otf
-│   │   ├── TerminaTest-Bold-C5cReKlJ.otf
-│   │   ├── TerminaTest-Medium-C94JgEIN.otf
-│   │   └── TerminaTest-Regular-DWAQ7vN_.otf
-│   └── index.html
-├── font
-│   └── termina-test
-│       ├── TerminaTest-Black.otf
-│       ├── TerminaTest-Bold.otf
-│       ├── TerminaTest-Demi.otf
-│       ├── TerminaTest-ExtraLight.otf
-│       ├── TerminaTest-Heavy.otf
-│       ├── TerminaTest-Light.otf
-│       ├── TerminaTest-Medium.otf
-│       ├── TerminaTest-Regular.otf
-│       └── TerminaTest-Thin.otf
-├── index.html
-├── package-lock.json
-├── package.json
-├── postcss.config.js
-├── README.md
-├── src
-│   ├── App.tsx
-│   ├── components
-│   │   ├── CodeShowcase.tsx
-│   │   ├── Footer.tsx
-│   │   ├── Hero.tsx
-│   │   ├── Navbar.tsx
-│   │   ├── Philosophy.tsx
-│   │   ├── TechStack.tsx
-│   │   ├── Traits.tsx
-│   │   └── ui
-│   ├── hooks
-│   │   └── useKonamiCode.ts
-│   ├── index.css
-│   ├── main.tsx
-│   └── vite-env.d.ts
-├── tailwind.config.js
-├── tsconfig.json
-├── vite.config.ts
-├── YOUWARE.md
-└── yw_manifest.json
+├── .github/
+│   └── workflows/
+├── .vercel/
+├── assets/
+├── dist/
+│   └── assets/
+├── font/
+│   └── termina-test/
+└── src/
+    ├── components/
+    │   └── ui/
+    └── hooks/
 ```
 
 ## 💻 Tech Stack
