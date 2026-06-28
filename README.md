@@ -30,21 +30,26 @@ Interact dynamically with your mouse or touch to explore the visual effects! Mov
    ```
 
 ## 📂 Project Structure
-```text
-quipee/
-├── .github/
-│   └── workflows/
-├── .vercel/
-├── assets/
-├── dist/
-│   └── assets/
-├── font/
-│   └── termina-test/
-└── src/
-    ├── components/
-    │   └── ui/
-    └── hooks/
-```
+
+- 📁 **.github/**
+- 📁 **.vercel/**
+- 📁 **assets/**
+- 📁 **dist/**
+- 📁 **font/**
+- 📁 **src/**
+- 📄 `.gitignore`
+- 📄 `dev.err.log`
+- 📄 `dev.out.log`
+- 📄 `index.html`
+- 📄 `package-lock.json`
+- 📄 `package.json`
+- 📄 `postcss.config.js`
+- 📄 `README.md`
+- 📄 `tailwind.config.js`
+- 📄 `tsconfig.json`
+- 📄 `vite.config.ts`
+- 📄 `YOUWARE.md`
+- 📄 `yw_manifest.json`
 
 ## 💻 Tech Stack
 HTML5 & CSS3: Structural vectors and custom styling variables.
