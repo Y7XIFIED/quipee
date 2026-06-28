@@ -3,7 +3,7 @@
 
 Welcome to **quipee**! This is a fun and engaging project built to provide an amazing experience!
 
-## ðŸš€ Live Website
+## 🚀 Live Website
 Experience the fully interactive website live here: https://quipie.vercel.app
 
 <div align="center"><p>Y7XIFIED</p></div>
